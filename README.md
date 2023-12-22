@@ -1,6 +1,6 @@
 # Bayes Materials
 
-*Articles*
+### *Articles*
 - [Distill Pub](https://distill.pub/2020/bayesian-optimization/)
 
 ### *EBooks*
