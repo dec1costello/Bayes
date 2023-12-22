@@ -6,6 +6,7 @@
 ### EBooks
 - [Basics of Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html)
 - [Probability and Bayesian Modeling](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)
+- [Probabilistic Programming and Bayesian Methods for Hackers](https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
 
 ### Paperback Books
 - []()
