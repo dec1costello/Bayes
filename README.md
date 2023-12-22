@@ -1,7 +1,17 @@
 # Bayes Materials
 
-### *Articles*
+### Articles
 - [Distill Pub](https://distill.pub/2020/bayesian-optimization/)
 
-### *EBooks*
+### EBooks
 - [Basics of Bayesian Statistics](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html)
+- [Probability and Bayesian Modeling](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)
+
+### Paperback Books
+- []()
+
+### Podcasts
+- [@djsyclik aka syclik talks Bayes and Pymc](https://x.com/LearnBayesStats/status/1730514629770523122?s=20)
+
+### Example Code
+- [Golf Example / Slide Deck](https://github.com/jamiebernardin/bayesian_golf)
