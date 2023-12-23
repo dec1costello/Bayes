@@ -1,5 +1,8 @@
 # Bayes Materials
 - [OP](https://github.com/pymc-devs/pymc-resources?tab=readme-ov-file)
+  - [Statistical Rethinking 2023](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)
+  - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+  - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
 
 ### Articles
 - [Distill Pub](https://distill.pub/2020/bayesian-optimization/)
